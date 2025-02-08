@@ -32,4 +32,4 @@ REGRA 3: De acordo com a preferencia de treino determinada pelo usuário, indica
 - HIIT: Treinos intervalados de alta intensidade, ótimos para queima de gordura.
 
 # Resultado esperado:
-Com base nos valores indicados na área das variáveis e com as guidelines, crie um treino ideal para a pessoa que corresponde a combinação desses 3 valores. Além disso, crie um treino alternativo para que após 1 mês de uso, o usuário tenha a opção de trocar.
+Com base nos valores indicados na área das variáveis e com as guidelines, crie um treino ideal para a pessoa que corresponde a combinação desses 3 valores. Além disso, crie um treino alternativo para que após 1 mês de uso, o usuário tenha a opção de trocar de treino.
